@@ -23,6 +23,12 @@ Para este proyecto se plantea la utilización de redes convolucionales para el e
 + Estimador de MI: MINE
 + Arquitectura base: CNN
 
+## ARCHIVOS DEL PROYECTO
+
++ gaussian_variable_MINE.ipynb: Código de prueba con variables aleatorias gaussianas correlacioandas. Se utilizó para baja a tierra conceptos relacionados a la implementación del estimador.
++ MINE_test.ipynb: Código de prueba de implementación de MINE. No utiliza GPU.
++ MINE_main.ipynb: Código principal del proyecto. Similar a MINE_test con algunos cambios en el entrenamiento y utilización de GPU.
+
 ## IMPLEMENTACIÓN
 
 ```py
